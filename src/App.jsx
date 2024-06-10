@@ -28,6 +28,8 @@ function App() {
           </ul>
         </nav>
 
+        <h1>Ciao Mamma</h1>
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/prodotti" element={<ListaProdotti />} />
